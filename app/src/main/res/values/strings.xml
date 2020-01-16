@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MenuContextualVarios</string>
+    <string name="txtInicio">Etiqueta con menú contextual</string>
+</resources>
